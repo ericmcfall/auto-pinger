@@ -1,0 +1,9 @@
+{
+  "targets": ["8.8.8.8", "google.com"],
+  "interval_seconds": 5,
+  "timeout_seconds": 2,
+  "max_log_size_mb": 5,
+  "log_file_count": 5,
+  "log_file_path": "logs/auto_pinger.log",
+  "log_mode": "all"
+}
